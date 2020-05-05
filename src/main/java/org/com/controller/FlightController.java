@@ -2,7 +2,6 @@ package org.com.controller;
 
 import org.com.dao.FlightDao;
 import org.com.error.RecordNotFoundException;
-import org.com.model.airport;
 import org.com.model.flight;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
