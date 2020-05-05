@@ -1,9 +1,5 @@
 package org.com;
 
-import org.com.model.airport;
-import org.com.model.schedule;
-import org.com.model.scheduledFlight;
-import org.com.services.ScheduledFlightService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
